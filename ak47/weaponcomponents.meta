@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponComponentInfoBlob>
+  <Data>
+  </Data>
+  <Infos>
+	    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_AK47_CLIP_01</Name>
+      <Model>w_ar_ak47_mag1</Model>
+      <LocName>WCT_CLIP_DRM</LocName>
+      <LocDesc>WCD_CLIP3</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="100" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="30" />
+      <ReloadData ref="RELOAD_EXTRA_LARGE" />
+	</Item>
+  </Infos>
+  <InfoBlobName>Dont Copy This Code Its Superak0s's or at least give me credits</InfoBlobName>
+</CWeaponComponentInfoBlob>
